@@ -5,12 +5,12 @@ You will complete two MongoDB University modules asynchronously. You must comple
 1. **MongoDB Overview** (Approx. 60 minutes)  
    <https://learn.mongodb.com/courses/mongodb-overview>
    
-![Mongodb](images/.png)
+![mongodb](images/mongoDB.png)
 
 2. **Relational to Document Model** (Approx. 75 minutes)  
    <https://learn.mongodb.com/courses/relational-to-document-model>
 
-![Mongomodel](images/.png)
+![mongomodel](images/mongomodel.png)
 
 ## Reflection:
 
